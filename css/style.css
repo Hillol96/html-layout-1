@@ -1,0 +1,23 @@
+*{
+    margin: 0%;
+}
+.header{
+    height: 180px;
+    background-color: chartreuse;
+    text-align: center;
+}
+.bar{
+    height: 150px;
+    background-color: cyan;
+    text-align: center;
+}
+.main{
+    height: 500px;
+    background-color: darkkhaki;
+    text-align: center;
+}
+.footer{
+    height: 200px;
+    background-color: darkorange;
+    text-align: center;
+}
